@@ -1,4 +1,4 @@
-# 🛡️ Network Intrusion Detection System (IDS)
+# 🛡️ AI Local Network Intrusion Detection System (ALIDS)
 
 A Python-based network intrusion detection system with clean architecture, real-time packet capture, feature extraction, and rule-based attack detection.
 
